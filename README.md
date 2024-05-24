@@ -1,37 +1,17 @@
-# 지영의 미니 홈페이지
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=180&color=random&text=Hi!%20I'm%20Jiyeong&fontColor=0072bb&fontAlign=71&fontAlignY=74)
 
-## 아주아주어려운 계산
- 4+3=8
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangji9202%2Fhit-counter&count_bg=%23667BDF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=true)](https://hits.seeyoufarm.com)
 
-## style추가
-
- ## 기본 정보
-- 혈액형 : **B형**
-- 태어난 곳 : **지구 대한민국**
-- 사는 곳 : **지구 대한민국**
-- 
-### GitHub
-
-- [깃허브](https://github.com/yangji9202)
- 
-
-### 좋아하는 동물
--  ![고양이](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MjdfMjUy%2FMDAxNjIyMTA4NDM0OTI1.ExoLjc7kIMNs1AGMC_b5uO1dlUvw8yxgcPyz9WX8ZLsg.AXBq1M6qeTnUAj2v9HGhrgB7caqs9AGGQSrNQVQCGrEg.JPEG.aimarjb%2Ffunny_cat-02.jpg&type=sc960_832)
+### 안녕하세요👋
 
 
-## 깃허브에서 파일 수정했음
-## 깃허브애서 파일 수정했음 연습
 
-- 로컬에서 리드미 수정
+## SKILLS
 
-## 스타일추가소스트리로코멘추가
+![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk)
+![String](https://img.shields.io/badge/spring-00000?style=for-the-badge&logo=spring&logoColor=6DB33F)
 
-## 소스트리에서 커밋, 푸시 연습하기~ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangji9202&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## 장바구니 추가함
-
-## 구매 목록은 까먹었음
-
-## 서비스소개 추가
-
-## contactus 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+​
